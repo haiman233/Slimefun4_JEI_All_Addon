@@ -1,0 +1,50 @@
+/gastronomicon proficiency add haiman 200 haiman
+/gastronomicon proficiency add
+/gastronomicon profile
+/sf give haiman GN_PERFECT_AVOCADO_TOAST 1
+/sf give haiman GN_PERFECT_BUTTER_CHICKEN_WITH_NAAN_BREAD 1
+/sf id
+/sf give haiman GN_PERFECT_WHISKEY 1
+/E
+/time set day
+/gamemode spectator
+/gamemode creative
+/time set day
+/sf debug_fish
+/weather clear
+/time set day
+/give haiman minecraft:piston{BlockStateTag:{extended:"true"}}
+/e
+/time set night
+/time set midnight
+/give haiman minecraft:small_dripleaf{BlockStateTag:{half:"lower"}}
+/give haiman minecraft:small_dripleaf{BlockStateTag:{half:"upper"}}
+/give haiman minecraft:piston{BlockStateTag:{extended:"true"}}
+/tp matl114
+/give haiman minecraft:tnt{BlockStateTag:{unstable:"true"}}
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/tp matl114
+/
+/tp matl114
+/
+/tp matl114
+/slimefunserveressentials:sse export recipes
+/slimefunserveressentials:sse export all_recipes
+/sf versions
+/slimefunserveressentials:sse export recipes HotbarPets
+/slimefunserveressentials:sse export recipes SlimefunLuckyBlocks
+/slimefunserveressentials:sse export recipes ExoticGarden
+/slimefunserveressentials:sse export recipes Endrex
+/slimefunserveressentials:sse export recipes Liquid
+/slimefunserveressentials:sse export recipes LiteXpansion
+/slimefunserveressentials:sse export recipes sj_Expansion
+/slimefunserveressentials:sse export recipes SoulJars
+/slimefunserveressentials:sse export recipes PotionExpansion
+/slimefunserveressentials:sse export recipes SlimyBees
+/slim
+/
+/sse export recipes RykenSlimefunCustomizer

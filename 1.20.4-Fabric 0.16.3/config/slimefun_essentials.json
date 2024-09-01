@@ -1,0 +1,9 @@
+{
+    "require_server_connection": true,
+    "auto_toggle_addons": false ,
+    "recipe_features": true,
+    "addons":[
+        "alchimiavitae","betterreactor","bump","chocohills","collect_addons.ipynb","compressioncraft","crystamaehistoria","cultivation","dracfun","dyebench","dyedbackpacks","dynatech","ecopower","electricspawners","emctech","endercargo","endrex","exlimus","exoticgarden","extragear","extraheads","extratools","ezslimefunaddon","fastmachines","finaltech-changed","flowerpower","fluffymachines","fnamplifications","foxymachines","galactifun","gastronomicon","geneticchickengineering","guizhancraft","hotbarpets","infinityexpansion","liquid","litexpansion","logitech","missilewarfare","mobcapturer","momotech","moretools","netheopoiesis","networks","nexcavate","potionexpansion","privatestorage","quaptics","relicsofcthonia","rykenslimefuncustomizer","simplematerialgenerators","simplestorage","sj_expansion","slimecustomizer","slimeframe","slimefun","slimefunitemexpansion","slimefunluckyblocks","slimefunorechunks","slimefunwarfare","slimetinker","slimybees","slimytreetaps","smallspace","souljars","soundmuffler","spiritsunchained","stackmachine","supreme","transcendence","ultimategenerators2","villagerutil","wildernether"
+
+    ]
+}

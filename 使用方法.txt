@@ -1,0 +1,1 @@
+将上面的压缩包解压到.minecraft\versions目录下
