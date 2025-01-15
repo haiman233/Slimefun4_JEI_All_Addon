@@ -1,5 +1,8 @@
 # 粘液mod端JEI整合包1.20.4
 
+![当前版本](https://img.shields.io/github/v/release/haiman233/Slimefun4_JEI_All_Addon?include_prereleases)
+![下载数](https://img.shields.io/github/downloads/haiman233/Slimefun4_JEI_All_Addon/total)
+
 这是一款适配跨版本，支持全附属物品的粘液科技JEI配方展示，可一键查询机器输入输出内容，使用的MC版本为1.20.4
 
 在此由衷感谢[matl114](https://github.com/m1919810?tab=repositories) 为模组做了适配与调整工作
