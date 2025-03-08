@@ -17,6 +17,78 @@ JEI的搜索功能也比粘液本体的搜索功能好万倍，JEI的搜索功�
 
 在 **可替代的Slimefun Essentials** 文件中提供了两个Slimefun Essentials版本，服务端的mod文件里装的为稳定版，下文会说明稳定版与随机崩版的区别
 
+# 附属关键词对照表（指id带有前缀的附属）
+
+在搜索栏内输入下述字母，即可搜索对应附属的物品
+NTW 网络
+NTW_EXPANSION 网络拓展
+FINALTECH 乱序技艺——原版
+_FINALTECH 乱序技艺——改版
+LOGITECH 逻辑工艺
+ANGLE_TECH 倾斜科技
+MAGIC_ 魔法
+WT_ 尘世百味
+ZERO_ 澪数工艺
+MOD_ENGINEERING 生物工程
+GZ_ 鬼斩科技
+SE_ 粘液科技拓展
+DYED_ 染色背包
+BC_ 更好的箱子
+NPS_ 下界乌托邦
+GCE_ 基因工程
+TINKERS_ 粘液匠魂
+WF_ 粘液战甲
+GN_ 美食家
+ELECTRIC_SPAWNER 电动刷怪笼
+AV_ 炼金术自传
+SMG_ 材料生成器
+ZIM_ SC科技
+HOTBAR_PET 背包宠物
+CT_ 箱子接口
+MOB_ 生物捕捉
+STB_ STB
+QP_ 量子光学
+FT_ 未来科技
+CRY_ 魔法水晶编年史
+FM_ 快捷机器
+CLT_ 农耕工艺
+SU_ 灵魂巧匠
+VU_ 村民工具
+SUPREME_ 至尊
+JC_ 染色工艺
+OMC_ 黑曜石科技
+FMG_ FN科技
+EM_ 化学工程
+NE_ 文明复兴
+MOMOTECH_ 乱码科技
+DRACEFUN_ 龙之研究
+_UG2 终极发电机2
+ETC_ EMC科技
+JC_ 压缩工艺
+BS_ 大蛇科技
+SHENGWUKEJI_ 生物科技
+HIWORLD_ 矿物科技
+LANGUI_ 云铭科技
+INFCP_ 无尽压缩
+VARIOUS_CLUTTER 杂乱科技
+QS_ 青山科技
+SPACETECH_ 太空科技
+SV_ 粘液可视化
+SFE_ 粘液战甲拓展
+AE_ 能源应用2
+EXPANSION_ sj粘液拓展
+MINIMIZEFACTORY_ 最小化工厂
+MAP_JAMMER 地图干扰
+MAGIC_8 魔法8号球
+LAB_ 实验室
+CE_ 附魔工艺
+CLAYTECH_ 粘土科技
+AG_ AG科技
+BUILDING_STAFF 建筑魔杖
+PROGRAMMABBLE_ 高级安卓机器人 
+HIVECORPORATION_ H公司
+
+
 # 最新稳定版
 
 更新之后，随机崩版本经过matl114优化不会再崩了，可以安心使用
